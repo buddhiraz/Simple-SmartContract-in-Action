@@ -28,5 +28,12 @@ For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
 # Interacting with Deployed State 
+### The Full image from remix.eth interface is here -->
 
+![image](https://github.com/buddhiraz/Simple-SmartContract-in-Action/assets/47522091/ec1f6e2d-8fc9-483d-8ae3-029b2248b913)
 
+### Interacting with the SmartContract itself :
+
+> The Smart Contract Address is here : 0xd9145CCE52D386f254917e481eB44e9943F39138
+
+![image](https://github.com/buddhiraz/Simple-SmartContract-in-Action/assets/47522091/8e57c57b-1d2e-435d-b264-898af27c6316)
